@@ -8,10 +8,10 @@ At the beginning, we focus on the code on github to do research, find the place 
 
 * Collaborators  :
     *  [Vincent AZINCOURT](https://github.com/Wiiz971)
-    *  [朱亭宇](https://github.com/jsp)
-    *  [游騰毅](https://github.com/jsp)
-    *  [陳威](https://github.com/jsp)
-    *  [高瑜](https://github.com/jsp)
+    *  [朱亭宇](https://github.com/none)
+    *  [游騰毅](https://github.com/none)
+    *  [陳威](https://github.com/none)
+    *  [高瑜](https://github.com/none)
 * Highly inspired by [lingyunhao](https://github.com/lingyunhao)'s code.
 
 ## Prerequisites
