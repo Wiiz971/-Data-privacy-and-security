@@ -26,11 +26,14 @@ pip install tensorflow-privacy==0.1.0
 * Tools used for the project :
     * [Python 3.6.15](https://www.python.org/downloads/release/python-3615/)
     * [Spider version 5.1.5](https://www.spyder-ide.org/)
-    * numpy==1.25.1
-    * torch==2.0.1
-    * pytorch-lightning==2.0.6
-    * tensorflow-gpu==2.0.0
-    * tensorflow-privacy==0.1.0
-    * tensorboard==2.14.0
+    * `numpy`==1.25.1
+    * `torch`==2.0.1
+    * `scipy` >= 0.17
+    * `mpmath` (for testing)
+    * `tensorflow_datasets` (for the RNN tutorial `lm_dpsgd_tutorial.py` only)
+    * `pytorch-lightning`==2.0.6
+    * `tensorflow-gpu`==2.0.0
+    * `tensorflow-privacy`==0.1.0
+    * `tensorboard`==2.14.0
  
   
