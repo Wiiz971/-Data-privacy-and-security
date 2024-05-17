@@ -18,7 +18,8 @@ At the beginning, we focus on the code on github to do research, find the place 
 Windows 10 + CUDA 10 + CUDNN 7 + TensorFlow 2.0 with Anaconda 3
 ```
 conda create -n tf2 python=3.6
-activate tf2
+conda activate tf2
+conda install tensorflow
 conda install tensorflow-gpu==2.0.0
 pip install tensorflow-privacy==0.1.0
 ```
